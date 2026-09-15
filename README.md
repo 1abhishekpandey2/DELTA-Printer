@@ -3,7 +3,10 @@
 This repository contains the Repetier firmware and the verified configuration
 for this custom delta printer.
 
-Start with [PRINTER_SETUP.md](PRINTER_SETUP.md). It records the working
+All firmware and printer-specific documentation live in the
+[`repetier/`](repetier/) folder.
+
+Start with [repetier/PRINTER_SETUP.md](repetier/PRINTER_SETUP.md). It records the working
 firmware values, endstop wiring and X-endstop remap, calibration safeguards,
 EEPROM procedure, and the complete Repetier-Host USB setup and print workflow.
 
