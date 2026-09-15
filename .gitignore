@@ -1,0 +1,14 @@
+# Arduino build output and editor metadata
+build/
+*.elf
+*.hex
+*.eep
+*.map
+*.o
+*.d
+.vscode/
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
